@@ -2,8 +2,6 @@
 
 Anya Melfissa Disable Thermal
 
-Version: 2.0
-
 Support Device: MT6833 / D6080
 
 Dev: Kanagawa Yamada
