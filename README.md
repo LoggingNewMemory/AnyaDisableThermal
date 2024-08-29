@@ -1,4 +1,4 @@
-![Anya Disable Thermal D6080](https://github.com/user-attachments/assets/37f4f1fa-299b-4626-922f-945c60146fec)
+![Anya Disable Thermal FINAL D6080](https://github.com/user-attachments/assets/9d8c70a4-6a3f-4c96-9dee-b7e3b28d52c3)
 
 Anya Melfissa Disable Thermal
 
